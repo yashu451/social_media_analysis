@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440" style="background:#ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title & Subtitle -->
+  <text x="350" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Overall Social Media Sentiment Distribution</text>
+  <text x="350" y="60" text-anchor="middle" font-size="12" fill="#64748b">Benchmark Source: exports/Social Media Sentiment Distribution..csv (Total Classified Posts N = 2,167)</text>
+
+  <!-- Pie Slices -->
+  <!-- Positive: 879 (40.56%) -->
+  <path d="M 250 220 L 250 80 A 140 140 0 0 1 328.22 336.11 Z" fill="#10b981" stroke="#ffffff" stroke-width="2.5" />
+  <!-- Neutral: 652 (30.09%) -->
+  <path d="M 250 220 L 328.22 336.11 A 140 140 0 0 1 115.19 257.77 Z" fill="#0ea5e9" stroke="#ffffff" stroke-width="2.5" />
+  <!-- Negative: 636 (29.35%) -->
+  <path d="M 250 220 L 115.19 257.77 A 140 140 0 0 1 250 80 Z" fill="#f43f5e" stroke="#ffffff" stroke-width="2.5" />
+
+  <!-- Percentage Slice Labels -->
+  <text x="336" y="198" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">40.6%</text>
+  <text x="219" y="309" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">30.1%</text>
+  <text x="178" y="170" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">29.4%</text>
+
+  <!-- Legend Box -->
+  <g transform="translate(440, 130)">
+    <!-- Positive Legend -->
+    <rect x="0" y="0" width="20" height="20" rx="4" fill="#10b981" />
+    <text x="32" y="15" font-size="14" font-weight="600" fill="#0f172a">Positive</text>
+    <text x="32" y="34" font-size="12" fill="#64748b">879 posts (40.6%)</text>
+
+    <!-- Neutral Legend -->
+    <rect x="0" y="60" width="20" height="20" rx="4" fill="#0ea5e9" />
+    <text x="32" y="75" font-size="14" font-weight="600" fill="#0f172a">Neutral</text>
+    <text x="32" y="94" font-size="12" fill="#64748b">652 posts (30.1%)</text>
+
+    <!-- Negative Legend -->
+    <rect x="0" y="120" width="20" height="20" rx="4" fill="#f43f5e" />
+    <text x="32" y="135" font-size="14" font-weight="600" fill="#0f172a">Negative</text>
+    <text x="32" y="154" font-size="12" fill="#64748b">636 posts (29.4%)</text>
+  </g>
+
+  <!-- Footer Stats Card -->
+  <rect x="50" y="380" width="600" height="42" rx="8" fill="#f8fafc" stroke="#e2e8f0" />
+  <text x="150" y="406" text-anchor="middle" font-size="12" fill="#475569">Total Classified: <tspan font-weight="700" fill="#0f172a">2,167</tspan></text>
+  <text x="350" y="406" text-anchor="middle" font-size="12" fill="#475569">Unclassified/Blank: <tspan font-weight="700" fill="#0f172a">33 (1.5%)</tspan></text>
+  <text x="540" y="406" text-anchor="middle" font-size="12" fill="#475569">Total Corpus: <tspan font-weight="700" fill="#0f172a">2,200</tspan></text>
+</svg>

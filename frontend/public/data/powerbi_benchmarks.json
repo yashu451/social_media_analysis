@@ -1,0 +1,779 @@
+{
+  "Average Comments.csv": {
+    "columns": [
+      "Average of comments"
+    ],
+    "rows": [
+      {
+        "Average of comments": 3.45
+      }
+    ],
+    "shape": [
+      1,
+      1
+    ]
+  },
+  "Average Engagement.csv": {
+    "columns": [
+      "Average of total_engagement"
+    ],
+    "rows": [
+      {
+        "Average of total_engagement": 46.13
+      }
+    ],
+    "shape": [
+      1,
+      1
+    ]
+  },
+  "Average Likes.csv": {
+    "columns": [
+      "Average of likes"
+    ],
+    "rows": [
+      {
+        "Average of likes": 36.09
+      }
+    ],
+    "shape": [
+      1,
+      1
+    ]
+  },
+  "Average of comments.csv": {
+    "columns": [
+      "platform",
+      "Average of comments"
+    ],
+    "rows": [
+      {
+        "platform": "TikTok",
+        "Average of comments": 4.61
+      },
+      {
+        "platform": "Instagram",
+        "Average of comments": 3.81
+      },
+      {
+        "platform": "Twitter",
+        "Average of comments": 3.19
+      },
+      {
+        "platform": "Facebook",
+        "Average of comments": 2.65
+      },
+      {
+        "platform": "LinkedIn",
+        "Average of comments": 1.94
+      }
+    ],
+    "shape": [
+      5,
+      2
+    ]
+  },
+  "Average of likes.csv": {
+    "columns": [
+      "platform",
+      "Average of likes"
+    ],
+    "rows": [
+      {
+        "platform": "TikTok",
+        "Average of likes": 47.35
+      },
+      {
+        "platform": "Instagram",
+        "Average of likes": 39.01
+      },
+      {
+        "platform": "Twitter",
+        "Average of likes": 34.04
+      },
+      {
+        "platform": "Facebook",
+        "Average of likes": 28.32
+      },
+      {
+        "platform": "LinkedIn",
+        "Average of likes": 21.22
+      }
+    ],
+    "shape": [
+      5,
+      2
+    ]
+  },
+  "Average of retweets_shares.csv": {
+    "columns": [
+      "platform",
+      "Average of retweets_shares"
+    ],
+    "rows": [
+      {
+        "platform": "TikTok",
+        "Average of retweets_shares": 8.75
+      },
+      {
+        "platform": "Instagram",
+        "Average of retweets_shares": 7.24
+      },
+      {
+        "platform": "Twitter",
+        "Average of retweets_shares": 6.17
+      },
+      {
+        "platform": "Facebook",
+        "Average of retweets_shares": 5.25
+      },
+      {
+        "platform": "LinkedIn",
+        "Average of retweets_shares": 3.56
+      }
+    ],
+    "shape": [
+      5,
+      2
+    ]
+  },
+  "Average of total_engagement.csv": {
+    "columns": [
+      "country",
+      "Average of total_engagement"
+    ],
+    "rows": [
+      {
+        "country": "Canada",
+        "Average of total_engagement": 48.25
+      },
+      {
+        "country": "UAE",
+        "Average of total_engagement": 47.62
+      },
+      {
+        "country": "Japan",
+        "Average of total_engagement": 47.15
+      },
+      {
+        "country": "USA",
+        "Average of total_engagement": 46.99
+      },
+      {
+        "country": "India",
+        "Average of total_engagement": 46.73
+      },
+      {
+        "country": "Unknown",
+        "Average of total_engagement": 46.55
+      },
+      {
+        "country": "UK",
+        "Average of total_engagement": 46.31
+      },
+      {
+        "country": "Germany",
+        "Average of total_engagement": 45.71
+      },
+      {
+        "country": "Brazil",
+        "Average of total_engagement": 44.88
+      },
+      {
+        "country": "Australia",
+        "Average of total_engagement": 44.06
+      },
+      {
+        "country": "France",
+        "Average of total_engagement": 43.77
+      },
+      {
+        "country": "South Africa",
+        "Average of total_engagement": 42.22
+      },
+      {
+        "country": "Mexico",
+        "Average of total_engagement": 41.29
+      }
+    ],
+    "shape": [
+      13,
+      2
+    ]
+  },
+  "Average of total_engagement_by _platform.csv": {
+    "columns": [
+      "platform",
+      "Average of total_engagement"
+    ],
+    "rows": [
+      {
+        "platform": "TikTok",
+        "Average of total_engagement": 60.32
+      },
+      {
+        "platform": "Instagram",
+        "Average of total_engagement": 50.18
+      },
+      {
+        "platform": "Twitter",
+        "Average of total_engagement": 43.39
+      },
+      {
+        "platform": "Facebook",
+        "Average of total_engagement": 36.24
+      },
+      {
+        "platform": "LinkedIn",
+        "Average of total_engagement": 26.84
+      }
+    ],
+    "shape": [
+      5,
+      2
+    ]
+  },
+  "Average of total_engagement_by_hour.csv": {
+    "columns": [
+      "hour",
+      "Average of total_engagement"
+    ],
+    "rows": [
+      {
+        "hour": 0,
+        "Average of total_engagement": 45.79
+      },
+      {
+        "hour": 1,
+        "Average of total_engagement": 44.21
+      },
+      {
+        "hour": 2,
+        "Average of total_engagement": 47.8
+      },
+      {
+        "hour": 3,
+        "Average of total_engagement": 47.25
+      },
+      {
+        "hour": 4,
+        "Average of total_engagement": 45.85
+      },
+      {
+        "hour": 5,
+        "Average of total_engagement": 45.63
+      },
+      {
+        "hour": 6,
+        "Average of total_engagement": 45.76
+      },
+      {
+        "hour": 7,
+        "Average of total_engagement": 45.04
+      },
+      {
+        "hour": 8,
+        "Average of total_engagement": 46.13
+      },
+      {
+        "hour": 9,
+        "Average of total_engagement": 46.68
+      },
+      {
+        "hour": 10,
+        "Average of total_engagement": 45.45
+      },
+      {
+        "hour": 11,
+        "Average of total_engagement": 49.41
+      },
+      {
+        "hour": 12,
+        "Average of total_engagement": 47.98
+      },
+      {
+        "hour": 13,
+        "Average of total_engagement": 45.5
+      },
+      {
+        "hour": 14,
+        "Average of total_engagement": 46.28
+      },
+      {
+        "hour": 15,
+        "Average of total_engagement": 44.51
+      },
+      {
+        "hour": 16,
+        "Average of total_engagement": 46.65
+      },
+      {
+        "hour": 17,
+        "Average of total_engagement": 44.43
+      },
+      {
+        "hour": 18,
+        "Average of total_engagement": 45.17
+      },
+      {
+        "hour": 19,
+        "Average of total_engagement": 45.19
+      },
+      {
+        "hour": 20,
+        "Average of total_engagement": 47.86
+      },
+      {
+        "hour": 21,
+        "Average of total_engagement": 48.01
+      },
+      {
+        "hour": 22,
+        "Average of total_engagement": 45.01
+      },
+      {
+        "hour": 23,
+        "Average of total_engagement": 45.7
+      }
+    ],
+    "shape": [
+      24,
+      2
+    ]
+  },
+  "Average of total_engagement_by_year.csv": {
+    "columns": [
+      "Year",
+      "Quarter",
+      "Month",
+      "Day",
+      "Average of total_engagement"
+    ],
+    "rows": [
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 1",
+        "Month": "January",
+        "Day": 1,
+        "Average of total_engagement": 45.47
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 1",
+        "Month": "February",
+        "Day": 1,
+        "Average of total_engagement": 49.91
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 1",
+        "Month": "March",
+        "Day": 1,
+        "Average of total_engagement": 42.24
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 2",
+        "Month": "April",
+        "Day": 1,
+        "Average of total_engagement": 47.54
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 2",
+        "Month": "May",
+        "Day": 1,
+        "Average of total_engagement": 47.95
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 2",
+        "Month": "June",
+        "Day": 1,
+        "Average of total_engagement": 46.65
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 3",
+        "Month": "July",
+        "Day": 1,
+        "Average of total_engagement": 49.75
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 3",
+        "Month": "August",
+        "Day": 1,
+        "Average of total_engagement": 45.29
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 3",
+        "Month": "September",
+        "Day": 1,
+        "Average of total_engagement": 46.73
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 4",
+        "Month": "October",
+        "Day": 1,
+        "Average of total_engagement": 43.26
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 4",
+        "Month": "November",
+        "Day": 1,
+        "Average of total_engagement": 44.78
+      },
+      {
+        "Year": 2023,
+        "Quarter": "Qtr 4",
+        "Month": "December",
+        "Day": 1,
+        "Average of total_engagement": 49.06
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 1",
+        "Month": "January",
+        "Day": 1,
+        "Average of total_engagement": 44.91
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 1",
+        "Month": "February",
+        "Day": 1,
+        "Average of total_engagement": 46.06
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 1",
+        "Month": "March",
+        "Day": 1,
+        "Average of total_engagement": 45.72
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 2",
+        "Month": "April",
+        "Day": 1,
+        "Average of total_engagement": 44.31
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 2",
+        "Month": "May",
+        "Day": 1,
+        "Average of total_engagement": 48.08
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 2",
+        "Month": "June",
+        "Day": 1,
+        "Average of total_engagement": 47.76
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 3",
+        "Month": "July",
+        "Day": 1,
+        "Average of total_engagement": 45.27
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 3",
+        "Month": "August",
+        "Day": 1,
+        "Average of total_engagement": 45.88
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 3",
+        "Month": "September",
+        "Day": 1,
+        "Average of total_engagement": 42.14
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 4",
+        "Month": "October",
+        "Day": 1,
+        "Average of total_engagement": 46.53
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 4",
+        "Month": "November",
+        "Day": 1,
+        "Average of total_engagement": 46.73
+      },
+      {
+        "Year": 2024,
+        "Quarter": "Qtr 4",
+        "Month": "December",
+        "Day": 1,
+        "Average of total_engagement": 45.41
+      }
+    ],
+    "shape": [
+      24,
+      5
+    ]
+  },
+  "Distribution of Total Engagement Across Posts.csv": {
+    "columns": [
+      "total_engagement (bins)",
+      "Count of post_id"
+    ],
+    "rows": [
+      {
+        "total_engagement (bins)": NaN,
+        "Count of post_id": 52
+      },
+      {
+        "total_engagement (bins)": 0.0,
+        "Count of post_id": 10
+      },
+      {
+        "total_engagement (bins)": 10.0,
+        "Count of post_id": 111
+      },
+      {
+        "total_engagement (bins)": 20.0,
+        "Count of post_id": 341
+      },
+      {
+        "total_engagement (bins)": 30.0,
+        "Count of post_id": 494
+      },
+      {
+        "total_engagement (bins)": 40.0,
+        "Count of post_id": 421
+      },
+      {
+        "total_engagement (bins)": 50.0,
+        "Count of post_id": 320
+      },
+      {
+        "total_engagement (bins)": 60.0,
+        "Count of post_id": 179
+      },
+      {
+        "total_engagement (bins)": 70.0,
+        "Count of post_id": 108
+      },
+      {
+        "total_engagement (bins)": 80.0,
+        "Count of post_id": 69
+      },
+      {
+        "total_engagement (bins)": 90.0,
+        "Count of post_id": 34
+      },
+      {
+        "total_engagement (bins)": 100.0,
+        "Count of post_id": 24
+      },
+      {
+        "total_engagement (bins)": 110.0,
+        "Count of post_id": 20
+      },
+      {
+        "total_engagement (bins)": 120.0,
+        "Count of post_id": 7
+      },
+      {
+        "total_engagement (bins)": 130.0,
+        "Count of post_id": 2
+      },
+      {
+        "total_engagement (bins)": 140.0,
+        "Count of post_id": 2
+      },
+      {
+        "total_engagement (bins)": 150.0,
+        "Count of post_id": 4
+      },
+      {
+        "total_engagement (bins)": 160.0,
+        "Count of post_id": 2
+      }
+    ],
+    "shape": [
+      18,
+      2
+    ]
+  },
+  "Sentiment Distribution by Social Media Platform.csv": {
+    "columns": [
+      "platform",
+      "Count of post_id",
+      "sentiment"
+    ],
+    "rows": [
+      {
+        "platform": "Twitter",
+        "Count of post_id": 309,
+        "sentiment": "Positive"
+      },
+      {
+        "platform": "Instagram",
+        "Count of post_id": 220,
+        "sentiment": "Positive"
+      },
+      {
+        "platform": "Twitter",
+        "Count of post_id": 205,
+        "sentiment": "Negative"
+      },
+      {
+        "platform": "Twitter",
+        "Count of post_id": 199,
+        "sentiment": "Neutral"
+      },
+      {
+        "platform": "Instagram",
+        "Count of post_id": 190,
+        "sentiment": "Neutral"
+      },
+      {
+        "platform": "Instagram",
+        "Count of post_id": 176,
+        "sentiment": "Negative"
+      },
+      {
+        "platform": "TikTok",
+        "Count of post_id": 153,
+        "sentiment": "Positive"
+      },
+      {
+        "platform": "Facebook",
+        "Count of post_id": 151,
+        "sentiment": "Positive"
+      },
+      {
+        "platform": "TikTok",
+        "Count of post_id": 117,
+        "sentiment": "Negative"
+      },
+      {
+        "platform": "TikTok",
+        "Count of post_id": 115,
+        "sentiment": "Neutral"
+      },
+      {
+        "platform": "Facebook",
+        "Count of post_id": 113,
+        "sentiment": "Neutral"
+      },
+      {
+        "platform": "Facebook",
+        "Count of post_id": 100,
+        "sentiment": "Negative"
+      },
+      {
+        "platform": "LinkedIn",
+        "Count of post_id": 46,
+        "sentiment": "Positive"
+      },
+      {
+        "platform": "LinkedIn",
+        "Count of post_id": 38,
+        "sentiment": "Negative"
+      },
+      {
+        "platform": "LinkedIn",
+        "Count of post_id": 35,
+        "sentiment": "Neutral"
+      }
+    ],
+    "shape": [
+      15,
+      3
+    ]
+  },
+  "Social Media Sentiment Distribution..csv": {
+    "columns": [
+      "sentiment",
+      "Count of post_id"
+    ],
+    "rows": [
+      {
+        "sentiment": "Positive",
+        "Count of post_id": 879
+      },
+      {
+        "sentiment": "Neutral",
+        "Count of post_id": 652
+      },
+      {
+        "sentiment": "Negative",
+        "Count of post_id": 636
+      },
+      {
+        "sentiment": NaN,
+        "Count of post_id": 33
+      }
+    ],
+    "shape": [
+      4,
+      2
+    ]
+  },
+  "Sum of likes and Sum of comments.csv": {
+    "columns": [
+      "Sum of likes",
+      "Sum of comments",
+      "platform"
+    ],
+    "rows": [
+      {
+        "Sum of likes": 10451,
+        "Sum of comments": 959,
+        "platform": "Facebook"
+      },
+      {
+        "Sum of likes": 23132,
+        "Sum of comments": 2208,
+        "platform": "Instagram"
+      },
+      {
+        "Sum of likes": 2525,
+        "Sum of comments": 225,
+        "platform": "LinkedIn"
+      },
+      {
+        "Sum of likes": 18418,
+        "Sum of comments": 1765,
+        "platform": "TikTok"
+      },
+      {
+        "Sum of likes": 24580,
+        "Sum of comments": 2283,
+        "platform": "Twitter"
+      }
+    ],
+    "shape": [
+      5,
+      3
+    ]
+  },
+  "Total Posts.csv": {
+    "columns": [
+      "Count of post_id"
+    ],
+    "rows": [
+      {
+        "Count of post_id": 2200
+      }
+    ],
+    "shape": [
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+﻿platform,Count of post_id,sentiment
+Twitter,309,Positive
+Instagram,220,Positive
+Twitter,205,Negative
+Twitter,199,Neutral
+Instagram,190,Neutral
+Instagram,176,Negative
+TikTok,153,Positive
+Facebook,151,Positive
+TikTok,117,Negative
+TikTok,115,Neutral
+Facebook,113,Neutral
+Facebook,100,Negative
+LinkedIn,46,Positive
+LinkedIn,38,Negative
+LinkedIn,35,Neutral
